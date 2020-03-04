@@ -83,7 +83,7 @@ var b = parseFloat("10.00")
 console.log(b)//output:10
               //returns only the integer
 var c=parseInt("fasghj");//NaN
-console.log(c);      //returns an integer
+console.log(c);      //
 var a="Aishwarya";
 var l=a.length;
 console.log(l);//output:9
