@@ -13,6 +13,7 @@ special-NaN,null,undefined
 let a='Aishwarya';
 let b='Sekar'
 let ccat = a.concat(b);
+
 console.log(a.length);//gives the length of the string
 console.log(ccat);
 let ew=ccat.endsWith('Sekar');//returns true if it ends with Sekar
